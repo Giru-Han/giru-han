@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+-> #This is center aligned <-
 <p style="text-align: center;"> ### Hi there 👋 </p>
 
 
