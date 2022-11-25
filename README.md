@@ -11,11 +11,10 @@
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>  
+  ### Hi there 👋
 </div>
 
-
-### Hi there 👋
 
 <!--
 **Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
