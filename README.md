@@ -14,9 +14,8 @@
   </a>
 </div>
 
-<div style="font-style: italic; text-align: center;" markdown="1">
-### Hi there 👋
-</div>
+p style="text-align: center;"> ### Hi there 👋 </p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
