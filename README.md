@@ -14,7 +14,7 @@
   </a>
 </div>
 
-p style="text-align: center;"> ### Hi there 👋 </p>
+<p style="text-align: center;"> ### Hi there 👋 </p>
 
 
 <div align="center">
