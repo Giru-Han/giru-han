@@ -33,6 +33,14 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/ms-excel.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/pandas.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/numpy.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/selenium-test-automation.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/postgreesql.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/console.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/lua-language.png" height="50" /></a>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
