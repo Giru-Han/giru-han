@@ -51,6 +51,10 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Giru-Han
+
 <!--
 **Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
