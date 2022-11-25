@@ -53,7 +53,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Giru-Han
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Giru-Han&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
