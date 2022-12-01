@@ -22,13 +22,17 @@
 -->
 
 ### :man_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia. Also specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I’m currently working on ... Python Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
+- 🌱 I’m currently learning ... Machine Learning
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me anything about ... MS Excel, used to experiment it as an engine to perform heavy operations using advanced formulas, arrays and nested formulas.
+- ⚡ Fun fact: ...I establish and manage a gaming community, Help them provide localization support. Building translation memory and generate patch 
+- 🤾 In my free time, I experiment with programing to automate daily life tasks and routines, help people solve tech related problems.
+- 📫 How to reach me: ...
+- 😄 Pronouns: ... patch for community. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
@@ -72,12 +76,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with python 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
