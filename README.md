@@ -24,15 +24,15 @@
 ### :man_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia. Also specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
 
-- 🔭 I’m currently working on ... Python Web 
+- 🔭 I’m currently working on ... Python Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ...
-- 💬 Ask me anything about ... MS Excel, used
-- ⚡ Fun fact: ...I establish and manage
-- 🤾 In my free time, I experiment with
+- 💬 Ask me anything about ... MS Excel, used to experiment it as an engine to perform heavy operations using advanced formulas, arrays and nested formulas.
+- ⚡ Fun fact: ...I establish and manage a gaming community, Help them provide localization support. Building translation memory and generate patch 
+- 🤾 In my free time, I experiment with programing to automate daily life tasks and routines, help people solve tech related problems.
 - 📫 How to reach me: ...
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" /></a>
