@@ -24,7 +24,6 @@
 ### :man_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia. Also specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
 
-
 - 🔭 I’m currently working on ... Python Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ...
@@ -32,7 +31,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - ⚡ Fun fact: ...I establish and manage a gaming community, Help them provide localization support. Building translation memory and generate patch 
 - 🤾 In my free time, I experiment with programing to automate daily life tasks and routines, help people solve tech related problems.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... patch for community. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
