@@ -22,13 +22,13 @@
 -->
 
 ### :man_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia. Also specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
+I am a Python Developer. Also specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
 
 - 🔭 I’m currently working on ... Python Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me anything about ... MS Excel, used to experiment it as an engine to perform heavy operations using advanced formulas, arrays and nested formulas.
-- ⚡ Fun fact: ...I establish and manage a gaming community, Help them provide localization support. Building translation memory and generate patch 
+- ⚡ Fun fact: ...I establish and manage a gaming community, Help them provide localization support. Building translation memory and generate patch.
 - 🤾 In my free time, I experiment with programing to automate daily life tasks and routines, help people solve tech related problems.
 - 📫 How to reach me: ...
 
@@ -73,6 +73,4 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 **Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 -->
