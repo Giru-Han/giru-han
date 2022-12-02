@@ -27,7 +27,7 @@ I am a Python Developer, and specialized in MS Excel, passionate in working with
 - 🔭 I’m currently working on ... Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
 - 💬 Ask me anything about ... MS Excel: heavy operations, advanced formulas, array, and nested formulas.
-- ⚡ Fun fact: ... I manage a game community, help provides them with translation patches.
+- ⚡ Fun fact: ... I manage a game community, solve language barries, help them provide translation patches.
 - 🤾 In my free time, I experiment with programing to automate daily life wherever it fits, and help people solve tech related problems.
 - 📫 How to reach me: ...
 
