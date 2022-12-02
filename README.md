@@ -34,7 +34,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" /></a>
+<img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" />
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/ms-excel.png" height="50" title="MS.Excel" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/pandas.png" height="50" title="Pandas" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/numpy.png" height="50" title="Numpy" /></a>
