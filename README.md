@@ -26,8 +26,8 @@ I am a Python Developer, and specialized in MS Excel, passionate in working with
 
 - 🔭 I’m currently working on ... Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
-- 💬 Ask me anything about ... MS Excel, used to experiment as an engine, perform heavy operations using advanced formulas, arrays, and nested formulas.
-- ⚡ Fun fact: ...I establish and manage a gaming community, providing localization support. Building translation memory and generate patch.
+- 💬 Ask me anything about ... MS Excel: heavy operations, advanced formulas, array, and nested formulas.
+- ⚡ Fun fact: ... I manage a game community, help provides them with translation patches.
 - 🤾 In my free time, I experiment with programing to automate daily life wherever it fits, and help people solve tech related problems.
 - 📫 How to reach me: ...
 
@@ -46,6 +46,19 @@ I am a Python Developer, and specialized in MS Excel, passionate in working with
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/amazon-alexa-logo.png" height="50" /></a>
 
 
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Giru-Han&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giru-Han&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on ...
+Here are some ideas to get you started:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -63,15 +76,4 @@ I am a Python Developer, and specialized in MS Excel, passionate in working with
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Giru-Han&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giru-Han&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-Here are some ideas to get you started:
 -->
