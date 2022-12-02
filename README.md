@@ -31,17 +31,19 @@
 - 🤾 In my free time, I explore to automate daily life wherever it fits, and help people solve tech-related problems.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/girupakaran-thivaharan-605491254/), [Email](mailto:giru3091@yahoo.com)
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/ms-excel.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/pandas.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/numpy.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/selenium-test-automation.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/postgreesql.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/console.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/lua-language.png" height="50" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/amazon-alexa-logo.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/ms-excel.png" height="50" title="MS.Excel" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/pandas.png" height="50" title="Pandas" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/numpy.png" height="50" title="Numpy" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/selenium-test-automation.png" height="50" title="Selenium" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="50" title="SQL"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/postgreesql.png" height="50" title="PostgreSQL" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/console.png" height="50" title="Tricks Site" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/lua-language.png" height="50" title="Lua" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/amazon-alexa-logo.png" height="50" title="Alexa" /></a>
 
 
 
