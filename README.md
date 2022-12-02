@@ -24,16 +24,16 @@
 ### :man_technologist: About Me :
 #### I am a Python Developer, and specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
 
-- 🔭 I’m currently working on ... Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
+- 🔭 I’m working on ... Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
 - 💬 Ask me anything about ... MS Excel: heavy operations, advanced formulas, array, and nested formulas.
-- ⚡ Fun fact: ... I manage a game community, solve language barries, help them provide translation patches.
-- 🤾 In my free time, I explore programming to automate daily life wherever it fits, and help people solve tech-related problems.
+- ⚡ Fun fact: ... I manage a game community, help them provide translation patches.
+- 🤾 In my free time, I explore to automate daily life wherever it fits, and help people solve tech-related problems.
 - 📫 Reach me at: ...
-- LinkedIn: https://www.linkedin.com/in/ahmedmaherhalima/
-- Github:   https://github.com/phpcodertop
+- LinkedIn: (https://www.linkedin.com/in/ahmedmaherhalima/)
+- Github:   (https://github.com/phpcodertop)
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" /></a>
