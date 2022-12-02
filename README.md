@@ -22,14 +22,13 @@
 -->
 
 ### :man_technologist: About Me :
-I am a Python Developer. Also specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
+I am a Python Developer, and specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
 
-- 🔭 I’m currently working on ... Python Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
+- 🔭 I’m currently working on ... Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me anything about ... MS Excel, used to experiment it as an engine to perform heavy operations using advanced formulas, arrays and nested formulas.
-- ⚡ Fun fact: ...I establish and manage a gaming community, Help them provide localization support. Building translation memory and generate patch.
-- 🤾 In my free time, I experiment with programing to automate daily life tasks and routines, help people solve tech related problems.
+- 💬 Ask me anything about ... MS Excel, used to experiment as an engine, perform heavy operations using advanced formulas, arrays, and nested formulas.
+- ⚡ Fun fact: ...I establish and manage a gaming community, providing localization support. Building translation memory and generate patch.
+- 🤾 In my free time, I experiment with programing to automate daily life wherever it fits, and help people solve tech related problems.
 - 📫 How to reach me: ...
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
@@ -44,6 +43,8 @@ I am a Python Developer. Also specialized in MS Excel, passionate in working wit
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/postgreesql.png" height="50" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/console.png" height="50" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/lua-language.png" height="50" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/amazon-alexa-logo.png" height="50" /></a>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -71,6 +72,6 @@ I am a Python Developer. Also specialized in MS Excel, passionate in working wit
 
 <!--
 **Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 👯 I’m looking to collaborate on ...
 Here are some ideas to get you started:
 -->
