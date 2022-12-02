@@ -29,7 +29,6 @@
 - 💬 Ask me anything about ... MS Excel: heavy operations, advanced formulas, array, and nested formulas.
 - ⚡ Fun fact: ... I manage a game community, solve language barries, help them provide translation patches.
 - 🤾 In my free time, I explore programming to automate daily life wherever it fits, and help people solve tech-related problems.
-
 - 📫 Reach me at: ...
 - LinkedIn: https://www.linkedin.com/in/ahmedmaherhalima/
 - Github:   https://github.com/phpcodertop
