@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there 👋</h1>
+<h2 align="left">Hi there 👋</h1>
 
 ### :man_technologist: About Me :
 #### I am a Python Developer, and specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
