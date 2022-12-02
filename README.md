@@ -15,11 +15,6 @@
 </div>
 
 <h1 align="center">Hi there 👋</h1>
-<!--
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
--->
 
 ### :man_technologist: About Me :
 #### I am a Python Developer, and specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
@@ -30,11 +25,6 @@
 - ⚡ Fun fact: ... I manage a game community, help them provide translation patches.
 - 🤾 In my free time, I explore to automate daily life wherever it fits, and help people solve tech-related problems.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/girupakaran-thivaharan-605491254/), [Email](mailto:giru3091@yahoo.com)
-
-a.disabled {
-  pointer-events: none;
-  cursor: default;
-}
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="URL_REDIRECT" target="blank" class="disabled"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" /></a>
@@ -49,8 +39,6 @@ a.disabled {
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/amazon-alexa-logo.png" height="50" title="Alexa" /></a>
 
 
-
-
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Giru-Han&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -58,6 +46,11 @@ a.disabled {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giru-Han&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 **Giru-Han/giru-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
 Here are some ideas to get you started:
