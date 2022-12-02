@@ -31,10 +31,13 @@
 - 🤾 In my free time, I explore to automate daily life wherever it fits, and help people solve tech-related problems.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/girupakaran-thivaharan-605491254/), [Email](mailto:giru3091@yahoo.com)
 
-
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
 
 ### :hammer_and_wrench: Languages and Tools :
-<img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" />
+<a href="URL_REDIRECT" target="blank" class="disabled"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/ms-excel.png" height="50" title="MS.Excel" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/pandas.png" height="50" title="Pandas" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/numpy.png" height="50" title="Numpy" /></a>
