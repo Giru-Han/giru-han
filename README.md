@@ -41,7 +41,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/selenium-test-automation.png" height="50" title="Selenium" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="50" title="SQL"/></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/postgreesql.png" height="50" title="PostgreSQL" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/console.png" height="50" title="Tricks Site" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/console.png" height="50" title="Bash" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/lua-language.png" height="50" title="Lua" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/amazon-alexa-logo.png" height="50" title="Alexa" /></a>
 
