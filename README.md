@@ -22,7 +22,7 @@
 -->
 
 ### :man_technologist: About Me :
-I am a Python Developer, and specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
+#### I am a Python Developer, and specialized in MS Excel, passionate in working with large data sets and numbers. My works include clean, organize, analyse data, and save operation time by automating daily routines and tasks.
 
 - 🔭 I’m currently working on ... Web Scrapping, Game localization, Pandas, Tkinter, Ms Excel, VBA, lua
 - 🌱 I’m currently learning ... Machine Learning
@@ -30,6 +30,8 @@ I am a Python Developer, and specialized in MS Excel, passionate in working with
 - ⚡ Fun fact: ... I manage a game community, solve language barries, help them provide translation patches.
 - 🤾 In my free time, I explore programming to automate daily life wherever it fits, and help people solve tech-related problems.
 - 📫 How to reach me: ...
+LinkedIn: https://www.linkedin.com/in/ahmedmaherhalima/
+Github: https://github.com/phpcodertop
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
