@@ -29,11 +29,7 @@
 - 💬 Ask me anything about ... MS Excel: heavy operations, advanced formulas, array, and nested formulas.
 - ⚡ Fun fact: ... I manage a game community, help them provide translation patches.
 - 🤾 In my free time, I explore to automate daily life wherever it fits, and help people solve tech-related problems.
-- 📫 Reach me at: ...
-- LinkedIn: (https://www.linkedin.com/in/ahmedmaherhalima/)
-- Github:   (https://github.com/phpcodertop)
-
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/girupakaran-thivaharan-605491254/), [Email](mailto:giru3091@yahoo.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" /></a>
