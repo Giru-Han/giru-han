@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/girupakaran-thivaharan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://discordapp.com/users/525725284625022992">
     <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/Reyvin333">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -24,7 +24,7 @@
 - 💬 Ask me anything about ... MS Excel: heavy operations, advanced formulas, array, and nested formulas.
 - ⚡ Fun fact: ... I manage a game community, help them provide translation patches.
 - 🤾 In my free time, I explore to automate daily life wherever it fits, and help people solve tech-related problems.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/girupakaran-thivaharan-605491254/), [Email](mailto:giru3091@yahoo.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/girupakaran-thivaharan/), [Email](mailto:giru3091@yahoo.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="URL_REDIRECT" target="blank" class="disabled"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" /></a>
